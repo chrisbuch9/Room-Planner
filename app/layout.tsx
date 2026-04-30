@@ -17,6 +17,9 @@ const jetbrains = JetBrains_Mono({
 export const metadata: Metadata = {
   title: "Room Planner",
   description: "Plan your room layout with a top-down canvas.",
+  verification: {
+    google: "FBFMM6WhwkDthi2VwQMQLCoDrDxNWG1zimuyTgf-8jA"
+  }
 };
 
 export default function RootLayout({
