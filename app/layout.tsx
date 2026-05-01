@@ -16,8 +16,8 @@ const jetbrains = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Room Planner",
-  description: "Plan your room layout with a top-down canvas.",
+  title: "MyRoomPlanner - Free Online Room Design Tool ",
+  description: "Free online room planner. No sign-in required. Quickly design your space, place furniture, and see what fits.",
   verification: {
     google: "FBFMM6WhwkDthi2VwQMQLCoDrDxNWG1zimuyTgf-8jA"
   }
